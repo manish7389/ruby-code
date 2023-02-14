@@ -1,0 +1,39 @@
+Press 1 to enter details :-
+Press 2 to exit :-
+
+enter key name:-  'name'
+
+enter value :- 'vikas'
+
+here is the total values :-  [{name: 'vikas'}]
+------------------------------------------------------------------
+Press 1 to enter details :-
+Press 2 to exit :-
+
+enter key name:-  'name'
+
+enter value :- 'karthik'
+
+here is the total values :-  [{name: 'vikas'}, {name: 'karthik'}]
+-----------------------------------------------------------------------
+Press 1 to enter details :-
+Press 2 to exit :-
+
+enter key name:-  'name'
+
+enter value :- 'vikas'
+
+here is the total values :- [{name: 'vikas'}, {name: 'karthik'}]
+------------------------------------------------------------------
+Press 1 to enter details :-
+Press 2 to exit :-
+
+enter key name:-  'student_name'
+
+enter value :- 'vikas'
+
+here is the total values :- [{name: 'vikas'}, {name: 'karthik'}, {student_name: 'vikas'}]
+------------------------------------------------------------------
+Press 1 to enter details :-
+Press 2 to exit :-
+

@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <script>
+        function sum(){
+            first_value = document.getElementById('firstvalue').value;
+            second_value = document.getElementById('secondvalue').value;
+            // parseInt(first_value)+parseInt(second_value)
+            document.getElementById('firstvalue1').value = parseInt(first_value)+parseInt(second_value)
+            document.getElementById('firstvalue').value = parseInt(first_value)+parseInt(second_value)
+            console.log(parseInt(first_value)+parseInt(second_value))
+
+        }
+
+    </script>
+</head>
+<body>
+    <h1>Sum Any Two Value</h1>
+    <label>Frist value</label><br>
+    <input id="firstvalue" type="number"><br>
+    <label>Second value</label><br>
+    <input id="secondvalue" type="number"><br>
+    <br>
+    <button type="submit" onclick={sum()}>Sum</button><br>
+    <label>Your Sum Is Here</label><br>
+    <p><input id="firstvalue1"></p><br>
+    <br>
+</body>
+</html>

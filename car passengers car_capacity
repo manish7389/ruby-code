@@ -1,0 +1,16 @@
+car passengers car_capacity
+
+
+how many cars :- 3
+
+enter capacity of car 1 :- 4
+enter capacity of car 2 :- 7
+enter capacity of car 3 :- 7
+
+how many passengers :- 9
+
+
+output :- 
+total 2 cars needed
+
+we haven't too much cars for passengers
